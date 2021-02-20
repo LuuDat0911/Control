@@ -2,7 +2,7 @@
 		include('Connect.php');
 		class Datphong
 		{
-			//Them email, pass
+			//123Them email, pass
 			public function adduser($email,$pass)
 			{
 				global $conn;
